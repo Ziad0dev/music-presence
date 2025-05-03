@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RCC version="1.0">
+    <qresource prefix="/">
+        <file>images/app-icon.png</file>
+        <file>images/app-icon-active.png</file>
+        <file>images/app-icon-inactive.png</file>
+        <file>images/player-icons/spotify.png</file>
+        <file>images/player-icons/vlc.png</file>
+        <file>images/player-icons/rhythmbox.png</file>
+        <file>images/player-icons/default.png</file>
+    </qresource>
+</RCC> 

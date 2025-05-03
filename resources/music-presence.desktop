@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=Application
+Name=Music Presence
+GenericName=Discord Music Status
+Comment=Show your Discord friends what music you're listening to
+Exec=music-presence
+Icon=music-presence
+Terminal=false
+Categories=Audio;Utility;Network;
+StartupNotify=false
+StartupWMClass=music-presence
+X-GNOME-Autostart-enabled=false 
